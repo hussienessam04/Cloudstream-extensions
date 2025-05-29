@@ -2,7 +2,7 @@
     "name": "Web2TopCinema Repository",
     "description": "Extensions for Arabic streaming sites",
     "manifestVersion": 1,
-        "pluginLists": [
-      "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/refs/heads/main/plugins.json"
+    "pluginLists": [
+        "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/main/plugins.json"
     ]
 }
