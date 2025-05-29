@@ -7,11 +7,11 @@
             "name": "Web2TopCinema",
             "description": "Stream Arabic movies and series",
             "authors": ["Your Name"],
-            "repositoryUrl": "https://github.com/yourusername/web2topcinema-repo",
+            "repositoryUrl": "https://github.com/hussienessam04/web2topcinema-repo",
             "version": 1,
             "status": 1,
             "language": "ar",
-            "url": "https://github.com/yourusername/web2topcinema-repo/raw/main/extensions/web2topcinema.cs3",
+            "url": "https://github.com/hussienessam04/web2topcinema-repo/raw/main/extensions/web2topcinema.cs3",
             "tvTypes": ["Movies", "TvSeries"],
             "iconUrl": "https://web2.topcinema.cam/favicon.ico"
         }
