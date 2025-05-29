@@ -26,7 +26,7 @@
         ],
         "version": 3,
         "internalName": "CasaCinemaProvider",
-        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/refs/heads/main/builds/CasaCinemaProvider.cs3",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/CasaCinemaProvider.cs3",
         "name": "CasaCinemaProvider"
     }
 ]
