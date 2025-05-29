@@ -1,8 +1,4 @@
-{
-    "name": "Web2TopCinema Repository",
-    "description": "Extensions for Arabic streaming sites",
-    "manifestVersion": 1,
-    "pluginLists": [
+ [
         {
             "name": "Web2TopCinema",
             "description": "Stream Arabic movies and series",
@@ -16,4 +12,4 @@
             "iconUrl": "https://web2.topcinema.cam/favicon.ico"
         }
     ]
-}
+
