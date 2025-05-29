@@ -10,6 +10,23 @@
             "url": "https://github.com/hussienessam04/Cloudstream-extensions/raw/refs/heads/main/extensions/web2topcinema.cs3",
             "tvTypes": ["Movies", "TvSeries"],
             "iconUrl": "https://web2.topcinema.cam/favicon.ico"
-        }
+        },{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=altadefinizione.tienda&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
+        "fileSize": 12193,
+        "status": 1,
+        "language": "it",
+        "authors": [
+            "Adippe"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "AltadefinizioneProvider",
+        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/AltadefinizioneProvider.cs3",
+        "name": "AltadefinizioneProvider"
+    }
     ]
 
