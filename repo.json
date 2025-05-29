@@ -3,6 +3,6 @@
     "description": "Extensions for Arabic streaming sites",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/plugins.json"
+        "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/refs/heads/main/builds/plugins.json"
     ]
 }
