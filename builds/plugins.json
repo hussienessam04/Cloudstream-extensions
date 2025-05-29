@@ -7,26 +7,8 @@
         "version": 1,
         "status": 1,
         "language": "ar",
-        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/refs/heads/main/builds/web2topcinema.cs3",
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/web2topcinema.cs3",
         "tvTypes": ["Movie", "TvSeries"],
         "iconUrl": "https://web2.topcinema.cam/favicon.ico"
-    },{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=casacinema.lol&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 14707,
-        "status": 1,
-        "language": "it",
-        "authors": [
-            "Forthe"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "CasaCinemaProvider",
-        "url": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/CasaCinemaProvider.cs3",
-        "name": "CasaCinemaProvider"
     }
 ]
