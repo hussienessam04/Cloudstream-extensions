@@ -1,33 +1,14 @@
 [
-        {
-            "name": "Web2TopCinema",
-            "description": "Stream Arabic movies and series",
-            "authors": ["Your Name"],
-            "repositoryUrl": "https://github.com/yourusername/web2topcinema-repo",
-            "version": 1,
-            "status": 1,
-            "language": "ar",
-            "url": "https://github.com/hussienessam04/Cloudstream-extensions/raw/refs/heads/main/web2topcinema.cs3",
-            "tvTypes": ["Movies", "TvSeries"],
-            "iconUrl": "https://web2.topcinema.cam/favicon.ico"
-        },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=casacinema.lol&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual",
-        "fileSize": 14707,
+        "name": "Web2TopCinema",
+        "description": "Stream Arabic movies and series from Web2TopCinema",
+        "authors": ["hussienessam04"],
+        "repositoryUrl": "https://github.com/hussienessam04/Cloudstream-extensions",
+        "version": 1,
         "status": 1,
-        "language": "it",
-        "authors": [
-            "Forthe"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "CasaCinemaProvider",
-        "url": "https://github.com/hussienessam04/Cloudstream-extensions/raw/refs/heads/main/CasaCinemaProvider.cs3",
-        "name": "CasaCinemaProvider"
+        "language": "ar",
+        "url": "https://github.com/hussienessam04/Cloudstream-extensions/raw/main/extensions/web2topcinema.cs3",
+        "tvTypes": ["Movies", "TvSeries"],
+        "iconUrl": "https://web2.topcinema.cam/favicon.ico"
     }
-    ]
+]
