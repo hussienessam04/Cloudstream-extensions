@@ -7,7 +7,7 @@
             "version": 1,
             "status": 1,
             "language": "ar",
-            "url": "https://github.com/hussienessam04/Cloudstream-extensions/blob/main/extensions/web2topcinema.cs3",
+            "url": "https://github.com/hussienessam04/Cloudstream-extensions/raw/refs/heads/main/web2topcinema.cs3",
             "tvTypes": ["Movies", "TvSeries"],
             "iconUrl": "https://web2.topcinema.cam/favicon.ico"
         },
@@ -27,7 +27,7 @@
         ],
         "version": 3,
         "internalName": "CasaCinemaProvider",
-        "url": "https://github.com/hussienessam04/Cloudstream-extensions/raw/refs/heads/main/extensions/CasaCinemaProvider.cs3",
+        "url": "https://github.com/hussienessam04/Cloudstream-extensions/raw/refs/heads/main/CasaCinemaProvider.cs3",
         "name": "CasaCinemaProvider"
     }
     ]
