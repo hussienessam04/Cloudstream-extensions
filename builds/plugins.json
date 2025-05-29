@@ -7,7 +7,7 @@
         "version": 1,
         "status": 1,
         "language": "ar",
-        "url": "https://github.com/hussienessam04/Cloudstream-extensions/raw/refs/heads/main/builds/web2topcinema.cs3",
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/refs/heads/main/builds/web2topcinema.cs3",
         "tvTypes": ["Movie", "TvSeries"],
         "iconUrl": "https://web2.topcinema.cam/favicon.ico"
     }
