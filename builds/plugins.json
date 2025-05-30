@@ -4,7 +4,7 @@
         "description": "Stream Arabic movies and series from Web2TopCinema",
         "authors": ["hussienessam04"],
         "repositoryUrl": "https://github.com/hussienessam04/Cloudstream-extensions",
-        "version": 1,
+        "version": 2,
         "status": 1,
         "language": "ar",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/web2topcinema.cs3",
