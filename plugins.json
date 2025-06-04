@@ -15,7 +15,7 @@
         "name": "Web2TopCinema"
     },    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=web2.tuktukcima.cam&sz=64",
-        "apiVersion": 1,
+        "apiVersion": 33,
         "repositoryUrl": "https://github.com/hussienessam04/Cloudstream-extensions",
         "fileSize": 25000,
         "status": 1,
