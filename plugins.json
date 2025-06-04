@@ -11,7 +11,7 @@
         "version": 2,
         "internalName": "Web2TopCinemaProvider",
         "description": "Stream Arabic movies and series from Web2TopCinema",
-        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/main/extensions/web2topcinema.cs3",
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/web2topcinema.cs3",
         "name": "Web2TopCinema"
     },    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=web2.tuktukcima.cam&sz=64",
@@ -25,7 +25,7 @@
         "version": 2,
         "internalName": "tuktukcimaProvider",
         "description": "Stream Arabic movies and series from Web2TopCinema",
-        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/main/extensions/tuktukcima.cs3",
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/tuktukcima.cs3",
         "name": "tuktukcima"
     }
 ]
