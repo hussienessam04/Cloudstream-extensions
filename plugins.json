@@ -22,7 +22,7 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 2,
+        "version": 33,
         "internalName": "tuktukcimaProvider",
         "description": "Stream Arabic movies and series from Web2TopCinema",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/tuktukcima.cs3",
