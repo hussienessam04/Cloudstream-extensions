@@ -22,7 +22,7 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 6,
+        "version": 7,
         "internalName": "myCima",
         "description": "Stream Arabic movies and series from Web2TopCinema",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/MyCimaProvider.cs3",
