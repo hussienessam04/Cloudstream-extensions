@@ -23,9 +23,9 @@
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
         "version": 3,
-        "internalName": "tuktukcimaProvider",
+        "internalName": "myCima",
         "description": "Stream Arabic movies and series from Web2TopCinema",
-        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/tuktukcima.cs3",
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/MyCimaProvider.cs3",
         "name": "tuktukcima"
     }
 ]
