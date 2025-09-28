@@ -50,9 +50,9 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 1,
+        "version": 2,
         "internalName": "arabseed",
-        "description": "Stream Arabic movies and series from Web2TopCinema",
+        "description": "Stream Arabic movies and series from arabseed",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/arabseed.cs3",
         "name": "arabseed"
     }
