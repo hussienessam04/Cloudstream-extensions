@@ -36,7 +36,7 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 1,
+        "version": 2,
         "internalName": "topCima",
         "description": "Stream Arabic movies and series from Web2TopCinema",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/topCima.cs3",
