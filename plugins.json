@@ -42,7 +42,7 @@
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/topCima.cs3",
         "name": "topCima"
     },    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=web2.tuktukcima.cam&sz=64",
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjUEbRY1anYM4Plz4vpfRPz5aGthvj6-4DM1E0emSycOocSg7vJ8hPs9rpWoUTkflo9o&usqp=CAU",
         "apiVersion": 3,
         "repositoryUrl": "https://github.com/hussienessam04/Cloudstream-extensions",
         "fileSize": 25000,
@@ -53,7 +53,7 @@
         "version": 1,
         "internalName": "arabseed",
         "description": "Stream Arabic movies and series from arabseed",
-        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/arabseed2.cs3",
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/arabseed.cs3",
         "name": "arabseed"
     }
 ]
