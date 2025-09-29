@@ -56,7 +56,7 @@
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/arabseed.cs3",
         "name": "arabseed"
     },    {
-        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTjUEbRY1anYM4Plz4vpfRPz5aGthvj6-4DM1E0emSycOocSg7vJ8hPs9rpWoUTkflo9o&usqp=CAU",
+        "iconUrl": "https://ak.sv/favicon.ico",
         "apiVersion": 3,
         "repositoryUrl": "https://github.com/hussienessam04/Cloudstream-extensions",
         "fileSize": 25000,
@@ -64,7 +64,7 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 1,
+        "version": 2,
         "internalName": "Akwam New",
         "description": "Stream Arabic movies and series from arabseed",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/Akwam_New.cs3",
