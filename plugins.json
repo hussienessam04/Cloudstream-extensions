@@ -65,9 +65,9 @@
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
         "version": 1,
-        "internalName": "Akwam New",
+        "internalName": "Shahid4u",
         "description": "Stream Arabic movies and series from arabseed",
-        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/Akwam_New.cs3",
-        "name": "Akwam New"
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/Shahid4u.cs3",
+        "name": "Shahid4u"
     }
 ]
