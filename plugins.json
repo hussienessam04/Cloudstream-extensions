@@ -64,7 +64,7 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 16,
+        "version": 17,
         "internalName": "Cimalek",
         "description": "Stream Arabic movies and series from Cimalek",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/Cimalek.cs3",
