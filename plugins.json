@@ -69,5 +69,19 @@
         "description": "Stream Arabic movies and series from Cimalek",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/Cimalek.cs3",
         "name": "Cimalek"
+    },    {
+        "iconUrl": "https://ak.sv/favicon.ico",
+        "apiVersion": 3,
+        "repositoryUrl": "https://github.com/hussienessam04/Cloudstream-extensions",
+        "fileSize": 25000,
+        "status": 1,
+        "language": "ar",
+        "authors": ["hussienessam04"],
+        "tvTypes": ["Movie", "TvSeries"],
+        "version": 1,
+        "internalName": "Akwam",
+        "description": "Stream Arabic movies and series from Cimalek",
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/akwam_new.cs3",
+        "name": "Akwam"
     }
 ]
