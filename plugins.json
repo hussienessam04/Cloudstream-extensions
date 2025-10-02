@@ -92,7 +92,7 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 2,
+        "version": 3,
         "internalName": "Akwam Old",
         "description": "Stream Arabic movies and series from Akwam",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/akwam_old.cs3",
