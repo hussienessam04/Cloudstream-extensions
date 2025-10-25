@@ -107,7 +107,7 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 1,
+        "version": 2,
         "internalName": "shahid4u",
         "description": "Stream Arabic movies and series from shahid4u",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/Shahid4U.cs3",
