@@ -107,10 +107,10 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 7,
-        "internalName": "Elmstba",
-        "description": "Stream Arabic movies and series from Elmstba",
+        "version": 1,
+        "internalName": "shahid4u",
+        "description": "Stream Arabic movies and series from shahid4u",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/Elmstba.cs3",
-        "name": "Elmstba"
+        "name": "shahid4u"
     }
 ]
