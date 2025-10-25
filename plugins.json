@@ -99,7 +99,7 @@
         "name": "Akwam Old"
     }
     ,    {
-        "iconUrl": "https://ak.sv/favicon.ico",
+        "iconUrl": "https://safa.ps/uploads/images/2023/03/mfTgO.jpg",
         "apiVersion": 3,
         "repositoryUrl": "https://github.com/hussienessam04/Cloudstream-extensions",
         "fileSize": 25000,
@@ -110,7 +110,7 @@
         "version": 1,
         "internalName": "shahid4u",
         "description": "Stream Arabic movies and series from shahid4u",
-        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/Elmstba.cs3",
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/Shahid4U.cs3",
         "name": "shahid4u"
     }
 ]
