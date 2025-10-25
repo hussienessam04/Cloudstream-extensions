@@ -121,7 +121,7 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 2,
+        "version": 3,
         "internalName": "EgyRamadan",
         "description": "Stream Arabic movies and series from EgyRamadan",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/EgyRamadan.cs3",
