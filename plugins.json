@@ -149,9 +149,9 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 1,
+        "version": 2,
         "internalName": "M4uhd",
-        "description": "Stream Arabic movies and series from TokTokCima",
+        "description": "Stream Arabic movies and series from M4uhd",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/M4uhd.cs3",
         "name": "M4uhd"
     }
