@@ -127,7 +127,7 @@
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/EgyRamadan.cs3",
         "name": "EgyRamadan"
     },    {
-        "iconUrl": "https://safa.ps/uploads/images/2023/03/mfTgO.jpg",
+        "iconUrl": "https://tuktukcenma.cam/favicon.ico",
         "apiVersion": 3,
         "repositoryUrl": "https://github.com/hussienessam04/Cloudstream-extensions",
         "fileSize": 25000,
@@ -140,5 +140,19 @@
         "description": "Stream Arabic movies and series from TokTokCima",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/TuktukCinema.cs3",
         "name": "TuktukCinema"
+    },    {
+        "iconUrl": "https://m4uhd.page/favicon.ico",
+        "apiVersion": 3,
+        "repositoryUrl": "https://github.com/hussienessam04/Cloudstream-extensions",
+        "fileSize": 25000,
+        "status": 1,
+        "language": "ar",
+        "authors": ["hussienessam04"],
+        "tvTypes": ["Movie", "TvSeries"],
+        "version": 1,
+        "internalName": "M4uhd",
+        "description": "Stream Arabic movies and series from TokTokCima",
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/M4uhd.cs3",
+        "name": "M4uhd"
     }
 ]
