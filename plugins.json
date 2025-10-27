@@ -136,9 +136,9 @@
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
         "version": 1,
-        "internalName": "TokTokCima",
+        "internalName": "TuktukCinema",
         "description": "Stream Arabic movies and series from TokTokCima",
-        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/TokTokCima.cs3",
-        "name": "TokTokCima"
+        "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/TuktukCinema.cs3",
+        "name": "TuktukCinema"
     }
 ]
