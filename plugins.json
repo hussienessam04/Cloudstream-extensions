@@ -149,7 +149,7 @@
         "language": "ar",
         "authors": ["hussienessam04"],
         "tvTypes": ["Movie", "TvSeries"],
-        "version": 2,
+        "version": 3,
         "internalName": "M4uhd",
         "description": "Stream Arabic movies and series from M4uhd",
         "url": "https://raw.githubusercontent.com/hussienessam04/Cloudstream-extensions/builds/M4uhd.cs3",
